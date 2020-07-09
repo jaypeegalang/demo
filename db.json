@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "user": {
+    "email": "jaypee@gmail.com",
+    "password": "123456"
+ }
 }
