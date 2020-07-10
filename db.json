@@ -11,20 +11,21 @@
   "profile": {
     "name": "typicode"
   },
-  "user": {
-    "email": "jaypee@gmail.com",
-    "password": "password"
+ "user": {
+    "email": "bmtest@biomarking.com",
+    "password": "1qw21qw2"
   },
   "message": [
     {
+      "id": 1,
       "status": false,
-      "data": {
+      "dataOne": {
         "message": "The email address or the password you inputted is incorrect."
       },
-      "status": true,
-      "data": {
+      "statusOne": true,
+      "dataTwo": {
         "token": "your access token is here"
       }
     }
- ]   
+ ]     
 }
