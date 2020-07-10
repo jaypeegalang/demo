@@ -14,5 +14,17 @@
   "user": {
     "email": "jaypee@gmail.com",
     "password": "password"
-  }
+  },
+  "message": [
+    {
+      "status": false,
+      "data": {
+        "message": "The email address or the password you inputted is incorrect."
+      },
+      "status": true,
+      "data": {
+        "message": "your access token is here"
+      }
+    }
+ ]   
 }
