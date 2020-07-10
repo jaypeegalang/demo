@@ -23,7 +23,7 @@
       },
       "status": true,
       "data": {
-        "message": "your access token is here"
+        "token": "your access token is here"
       }
     }
  ]   
